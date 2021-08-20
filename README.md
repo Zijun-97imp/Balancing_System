@@ -1,4 +1,4 @@
-# Balancing_System
+# Balancing_System_1.0
 With the balancing system working application basement.
 
 This system is working the axes transferring along the body, wind and balancing coordinations, which shows the results of displacement and momentum. Meanwhile, it is demonstrating that some errors should still inside the system by applying the average multi-iteration method (AMI) to immerse.
