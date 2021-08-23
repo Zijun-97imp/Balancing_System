@@ -1,4 +1,4 @@
-# Balancing_System_1.0
+# Balancing_System_2.0Beta
 With the balancing system working application basement.
 
 This system is working the axes transferring along the body, wind and balancing coordinations, which shows the results of displacement and momentum. Meanwhile, it is demonstrating that some errors should still inside the system by applying the average multi-iteration method (AMI) to immerse.
@@ -50,7 +50,9 @@ This system is working the axes transferring along the body, wind and balancing 
 At its core, transferring system is a part of wind tunnel running system, which the collected data from the experiements should redefine the contents for the further analysis. For more, based on this system, the best target of future contributions are the aerodynamic analysis through the algorithm, if this system will have the ability to mixture running with the other works.
 In short, the balancing transferring calculator could outcome with different axial results in pitching, rolling and yawing motion for tested model. In fact, the continuous way is forming a voltage recieving system to directly output the physical variables.
 * Model Analysis, Axial Transfer and Aerodynamic Information Outcome;
-* 5-6 DoF Balancing System Alignment Tool (upcoming);
+* 5-6 DoF Balancing System Alignment Tool;
+  + By applying the different balancing equipments to transfer values; (New)
+  + Using the input electrical signal value to enhance the experiment simularity; (New)
 * Coefficient of aerodynamic variables (upcoming);
 * Experimental Diagram Process (upcoming):
   + Static Diagram (Forces with motional angle);
